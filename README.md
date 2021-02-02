@@ -5,6 +5,7 @@
 - 🏠 Living in Madrid
 - 📫 How to reach me: dpuente-@student.42madrid.com
 
+<!--[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dpuente-)](https://github.com/JaeSeoKim/badge42)-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davyd11&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

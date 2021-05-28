@@ -10,14 +10,14 @@
 | :-: | :--------------------------------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :------------------------------------------------------ | :----: |
 | 1   | [Libft](https://github.com/hanshazairi/42-libft)                 | ✅     |   | 11  | minishell     | 🔒     |   | 21  | [netwhat](https://github.com/hanshazairi/42-netwhat)    | ✅     |
 | 2   | [Born2beroot](https://github.com/hanshazairi/42-born2beroot)     | 📝     |   | 12  | CPP Module 00 | 🔒     |   | 22  | Philosophers                                            | 🔒     |
-| 3   | ft_printf                                                        | 🔓     |   | 13  | CPP Module 01 | 🔒     |   | 23  | ft_containers                                           | 🔒     |
+| 3   | ft_printf                                                        | ✅     |   | 13  | CPP Module 01 | 🔒     |   | 23  | ft_containers                                           | 🔒     |
 | 4   | [get_next_line](https://github.com/hanshazairi/42-get_next_line) | 📝     |   | 14  | CPP Module 02 | 🔒     |   | 24  | ft_irc                                                  | 🔒     |
-| 5   | cub3d                                                            | 🔒     |   | 15  | CPP Module 03 | 🔒     |   | 25  | webserv                                                 | 🔒     |
-| 6   | ft_server                                                        | 🔒     |   | 16  | CPP Module 04 | 🔒     |   | 26  | ft_transcendence                                        | 🔒     |
+| 5   | cub3d                                                            | ✅     |   | 15  | CPP Module 03 | 🔒     |   | 25  | webserv                                                 | 🔒     |
+| 6   | ft_server                                                        | ✅     |   | 16  | CPP Module 04 | 🔒     |   | 26  | ft_transcendence                                        | 🔒     |
 | 7   | miniRT                                                           | 🔒     |   | 17  | CPP Module 05 | 🔒     |   | 27  | libasm                                                  | 🔒     |
-| 8   | push_swap                                                        | 🔒     |   | 18  | CPP Module 06 | 🔒     |   | 28  | ft_newton                                               | 🔒     |
+| 8   | push_swap                                                        | ✅     |   | 18  | CPP Module 06 | 🔒     |   | 28  | ft_newton                                               | 🔒     |
 | 9   | ft_services                                                      | 🔒     |   | 19  | CPP Module 07 | 🔒     |   |     |                                                         |        |
-| 10  | Inception                                                        | 🔒     |   | 20  | CPP Module 08 | 🔒     |   |     |                                                         |        |
+| 10  | Inception                                                        | 📝     |   | 20  | CPP Module 08 | 🔒     |   |     |                                                         |        |
 
 <!--[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dpuente-)](https://github.com/JaeSeoKim/badge42)-->
 

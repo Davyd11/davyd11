@@ -14,7 +14,7 @@
 | 4   | [get_next_line](https://github.com/hanshazairi/42-get_next_line) | 📝     |   | 14  | CPP Module 02 | 🔒     |   | 24  | ft_irc                                                  | 🔒     |
 | 5   | cub3d                                                            | ✅     |   | 15  | CPP Module 03 | 🔒     |   | 25  | webserv                                                 | 🔒     |
 | 6   | ft_server                                                        | ✅     |   | 16  | CPP Module 04 | 🔒     |   | 26  | ft_transcendence                                        | 🔒     |
-| 7   | miniRT                                                           | 🔒     |   | 17  | CPP Module 05 | 🔒     |   | 27  | libasm                                                  | 📝     |
+| 7   | miniRT                                                           | 🔒     |   | 17  | CPP Module 05 | 🔒     |   | 27  | libasm                                                  | ✅     |
 | 8   | push_swap                                                        | ✅     |   | 18  | CPP Module 06 | 🔒     |   | 28  | ft_newton                                               | 🔒     |
 | 9   | ft_services                                                      | 🔒     |   | 19  | CPP Module 07 | 🔒     |   |     |                                                         |        |
 | 10  | Inception                                                        | 📝     |   | 20  | CPP Module 08 | 🔒     |   |     |                                                         |        |

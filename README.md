@@ -8,12 +8,12 @@
 
 | No  | Project                                                          | Status |   | No  | Project       | Status |   | No  | Project                                                 | Status |
 | :-: | :--------------------------------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :------------------------------------------------------ | :----: |
-| 1   | [Libft](https://github.com/hanshazairi/42-libft)                 | ✅     |   | 11  | minishell     | 🔒     |   | 21  | [netwhat](https://github.com/hanshazairi/42-netwhat)    | ✅     |
+| 1   | [Libft](https://github.com/Davyd11/libft)                 | ✅     |   | 11  | minishell     | 🔒     |   | 21  | [netwhat](https://github.com/hanshazairi/42-netwhat)    | ✅     |
 | 2   | [Born2beroot](https://github.com/hanshazairi/42-born2beroot)     | 📝     |   | 12  | CPP Module 00 | 🔒     |   | 22  | Philosophers                                            | 🔒     |
 | 3   | ft_printf                                                        | ✅     |   | 13  | CPP Module 01 | 🔒     |   | 23  | ft_containers                                           | 🔒     |
 | 4   | [get_next_line](https://github.com/hanshazairi/42-get_next_line) | 📝     |   | 14  | CPP Module 02 | 🔒     |   | 24  | ft_irc                                                  | 🔒     |
 | 5   | cub3d                                                            | ✅     |   | 15  | CPP Module 03 | 🔒     |   | 25  | webserv                                                 | 🔒     |
-| 6   | ft_server                                                        | ✅     |   | 16  | CPP Module 04 | 🔒     |   | 26  | ft_transcendence                                        | 🔒     |
+| 6   | [ft_server](https://github.com/Davyd11/ft_server_davyd11)                                                        | ✅     |   | 16  | CPP Module 04 | 🔒     |   | 26  | ft_transcendence                                        | 🔒     |
 | 7   | miniRT                                                           | 🔒     |   | 17  | CPP Module 05 | 🔒     |   | 27  | libasm                                                  | ✅     |
 | 8   | [push_swap](https://github.com/Davyd11/Libasm)                                                        | ✅     |   | 18  | CPP Module 06 | 🔒     |   | 28  | ft_newton                                               | 🔒     |
 | 9   | ft_services                                                      | 🔒     |   | 19  | CPP Module 07 | 🔒     |   |     |                                                         |        |

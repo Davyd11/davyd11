@@ -5,6 +5,12 @@
 - 🏠 Living in Madrid
 - 📫 How to reach me: dpuente-@student.42madrid.com
 
+<!--[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dpuente-)](https://github.com/JaeSeoKim/badge42)-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davyd11&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davyd11&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 | No  | Project                                                          | Status |   | No  | Project       | Status |   | No  | Project                                                 | Status |
 | :-: | :--------------------------------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :------------------------------------------------------ | :----: |
@@ -18,9 +24,3 @@
 | 8   | [push_swap](https://github.com/Davyd11/push_swap_42)                                                        | ✅     |   | 18  | CPP Module 06 | 🔒     |   | 28  | ft_newton                                               | 🔒     |
 | 9   | ft_services                                                      | 🔒     |   | 19  | CPP Module 07 | 🔒     |   |     |                                                         |        |
 | 10  | Inception                                                        | 📝     |   | 20  | CPP Module 08 | 🔒     |   |     |                                                         |        |
-
-<!--[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dpuente-)](https://github.com/JaeSeoKim/badge42)-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davyd11&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davyd11&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

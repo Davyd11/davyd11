@@ -21,6 +21,6 @@
 | 5   | cub3d                                                            | ✅     |   | 15  | CPP Module 03 | 🔒     |   | 25  | webserv                                                 | 🔒     |
 | 6   | [ft_server](https://github.com/Davyd11/ft_server_davyd11)                                                        | ✅     |   | 16  | CPP Module 04 | 🔒     |   | 26  | ft_transcendence                                        | 🔒     |
 | 7   | miniRT                                                           | 🔒     |   | 17  | CPP Module 05 | 🔒     |   | 27  | [libasm](https://github.com/Davyd11/Libasm)                                                  | ✅     |
-| 8   | [push_swap](https://github.com/Davyd11/push_swap_42)                                                        | ✅     |   | 18  | CPP Module 06 | 🔒     |   | 28  |                                                |      |
+| 8   | [push_swap](https://github.com/Davyd11/push_swap_42)                                                        | ✅     |   | 18  | CPP Module 06 | 🔒     |   |  |                                                |      |
 | 9   | ft_services                                                      | 🔒     |   | 19  | CPP Module 07 | 🔒     |   |     |                                                         |        |
 | 10  | Inception                                                        | 📝     |   | 20  | CPP Module 08 | 🔒     |   |     |                                                         |        |
